@@ -16,7 +16,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - **Generative Art by Matt Pearson** - When I first read it I expected only an introdcution to GenArt, but it was filled with emotions, programming by its nature embrace logic and don't welcome chaos and the unpredictable(you don't want logical errors here and there, right?); this book break this rule and show the beauty of chaos, and somehow giving life to code.
 - **C++ Primer Plus** - I remember nothing about it but I'm sure I've read it at some point in life.
 - **Beginning C# Object-Oriented Programming** - I don't remember.
-- **The Linux Command Line by William E. Shotts - I re-read it whenever I switch to Linux lol.
+- **The Linux Command Line by William E. Shotts** - I re-read it whenever I switch to Linux lol.
 - **Python Crash Course by Eric Matthes** - The cool thing is it follows a project-based teaching system in the second part of the book.
 - **Cracking The Coding Interview** - Read random topics from it and so far it's a nice book. 
 ## Videos

@@ -7,6 +7,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Books](#books)
 - [Videos](#videos)
 - [Blogs/Articles](#blogs)
+- [Other](#other)
 
 
 ## Books
@@ -30,3 +31,5 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [GuerrillaCG](https://www.youtube.com/@GuerrillaCG) - an old hidden gym on Computer Graphics topics.
 - [Bites n Bits](https://bytesnbits.co.uk/) - I really enjoy his vibes, posts cool retro related topics.
 - [Junkiyoshi](https://junkiyoshi.com/) - His generative art always reminds me how beautiful simple things could be.
+## Other
+-[Marinally Clever Robots](https://github.com/MarginallyClever) - Developing robots; what I'm interested in is their pen plotter open sourced software, it has a varaity of themes and image converter; it's fun to study their image manipulation techniques.

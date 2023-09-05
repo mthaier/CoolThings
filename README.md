@@ -24,6 +24,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [The Art of Code by Dylan Beattie, a must-watch for any GenArtist and fun to watch for any programmer](https://www.youtube.com/watch?v=6avJHaC3C2U).
 - [Thoughts on how you should setup a python open source package/repo](https://www.youtube.com/watch?v=25P5apB4XWM&t=709s).
 - [Juice it or lose it, a cool talk about "tweening" your game](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+- [some autonomus agents art work](https://vimeo.com/22955812)
 - There's a lot more I'm just too lazy to bring them and gonna add them later.
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.

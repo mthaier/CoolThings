@@ -25,6 +25,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Thoughts on how you should setup a python open source package/repo](https://www.youtube.com/watch?v=25P5apB4XWM&t=709s).
 - [Juice it or lose it, a cool talk about "tweening" your game](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 - [some autonomus agents art work](https://vimeo.com/22955812)
+- [TedX talk on creative talking](https://www.youtube.com/watch?v=JW7oAbLVNJE)
 - There's a lot more I'm just too lazy to bring them and gonna add them later.
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.

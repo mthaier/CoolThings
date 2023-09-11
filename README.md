@@ -26,6 +26,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Juice it or lose it, a cool talk about "tweening" your game](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 - [some autonomus agents art work](https://vimeo.com/22955812)
 - [TedX talk on creative talking](https://www.youtube.com/watch?v=JW7oAbLVNJE)
+- [Chaos Theory, has interesting equations](https://www.youtube.com/watch?v=uzJXeluCKMs)
 - There's a lot more I'm just too lazy to bring them and gonna add them later.
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.

@@ -29,6 +29,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Chaos Theory, has interesting equations](https://www.youtube.com/watch?v=uzJXeluCKMs)
 - [The Art of Creative Coding, talks about major creative-coding tools](https://www.youtube.com/watch?v=eBV14-3LT-g)
 - [Branchelss programming](https://www.youtube.com/watch?v=bVJ-mWWL7cE&t=632s)
+- [Darrick Wong Linux Kernel evolution simulation](https://www.youtube.com/watch?v=OOayJ6p5GQI)
 - There's a lot more I'm just too lazy to bring them and gonna add them later.
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.

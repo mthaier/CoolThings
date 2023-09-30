@@ -31,6 +31,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Branchelss programming](https://www.youtube.com/watch?v=bVJ-mWWL7cE&t=632s)
 - [Darrick Wong Linux Kernel evolution simulation](https://www.youtube.com/watch?v=OOayJ6p5GQI)
 - [I like The Prime Reacts channel](https://www.youtube.com/@ThePrimeTimeagen)
+- [Someone who used vim for years just starting his coding journy, it's usually the other way around](https://www.youtube.com/watch?v=FoLzAFoSoeI)
 - There's a lot more I'm just too lazy to bring them and gonna add them later.
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.

@@ -43,3 +43,4 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Junkiyoshi](https://junkiyoshi.com/) - His generative art always reminds me how beautiful simple things could be.
 ## Other
 -[Marinally Clever Robots](https://github.com/MarginallyClever) - Developing robots; what I'm interested in is their pen plotter open sourced software, it has a varaity of themes and image converter; it's fun to study their image manipulation techniques.
+-[Pardon this commit, I'm learning something with git]

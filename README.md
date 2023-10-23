@@ -34,7 +34,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Someone who used vim for years just starting his coding journy, it's usually the other way around](https://www.youtube.com/watch?v=FoLzAFoSoeI)
 - [A competition of people coding shaders? hell yeah](https://www.youtube.com/watch?v=EJ7KAD0NyGw)
 - [Next level of functions graphing; inspiring](https://www.youtube.com/watch?v=r1h3eNQ2YM0)
-- There's a lot more I'm just too lazy to bring them and gonna add them later.
+- [Coding via voice; it feels like vim but without a keyboard](https://www.youtube.com/watch?v=5mAzHGM2M0k)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.

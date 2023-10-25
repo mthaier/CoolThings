@@ -42,5 +42,5 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Bites n Bits](https://bytesnbits.co.uk/) - I really enjoy his vibes, posts cool retro related topics.
 - [Junkiyoshi](https://junkiyoshi.com/) - His generative art always reminds me how beautiful simple things could be.
 ## Other
--[Marinally Clever Robots](https://github.com/MarginallyClever) - Developing robots; what I'm interested in is their pen plotter open sourced software, it has a varaity of themes and image converter; it's fun to study their image manipulation techniques.
--[Pardon this commit, I'm learning something with git]
+- [Marinally Clever Robots](https://github.com/MarginallyClever) - Developing robots; what I'm interested in is their pen plotter open sourced software, it has a varaity of themes and image converter; it's fun to study their image manipulation techniques.
+- [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)

@@ -36,6 +36,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Next level of functions graphing; inspiring](https://www.youtube.com/watch?v=r1h3eNQ2YM0)
 - [Coding via voice; it feels like vim but without a keyboard](https://www.youtube.com/watch?v=5mAzHGM2M0k)
 - [KDE vs GNOME podcast](https://www.youtube.com/watch?v=T-lPAIvGigw&t=3250s)
+- [DeathNote themes are fun while coding](https://www.youtube.com/watch?v=CcVdjZN0-D4)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.

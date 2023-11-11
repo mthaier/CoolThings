@@ -38,6 +38,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [KDE vs GNOME podcast](https://www.youtube.com/watch?v=T-lPAIvGigw&t=3250s)
 - [DeathNote themes are fun while coding](https://www.youtube.com/watch?v=CcVdjZN0-D4)
 - [Tmux is cool](https://www.youtube.com/watch?v=Yl7NFenTgIo&t=502s)
+- [Interesting list of free softwares to make your gamedev life easier](https://www.youtube.com/watch?v=SBmeEQOh20A&list=WL&index=15)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.

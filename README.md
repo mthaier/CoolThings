@@ -19,7 +19,8 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - **Beginning C# Object-Oriented Programming** - I don't remember.
 - **The Linux Command Line by William E. Shotts** - I re-read it whenever I switch to Linux lol.
 - **Python Crash Course by Eric Matthes** - The cool thing is it follows a project-based teaching system in the second part of the book.
-- **Cracking The Coding Interview** - Read random topics from it and so far it's a nice book. 
+- **Cracking The Coding Interview** - Read random topics from it and so far it's a nice book.
+- **Programming C# 8.0** - I just started this book
 ## Videos
 - [The Art of Code by Dylan Beattie, a must-watch for any GenArtist and fun to watch for any programmer](https://www.youtube.com/watch?v=6avJHaC3C2U).
 - [Thoughts on how you should setup a python open source package/repo](https://www.youtube.com/watch?v=25P5apB4XWM&t=709s).

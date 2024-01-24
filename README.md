@@ -41,6 +41,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Tmux is cool](https://www.youtube.com/watch?v=Yl7NFenTgIo&t=502s)
 - [Interesting list of free softwares to make your gamedev life easier](https://www.youtube.com/watch?v=SBmeEQOh20A&list=WL&index=15)
 - [Physics simulator made by Terry Davis](https://www.youtube.com/watch?v=25hLohVZdME)
+- [Coding FPS game engine](https://www.youtube.com/watch?v=29H0N_yRUXo&list=WL&index=1&t=555s)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.

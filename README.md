@@ -52,6 +52,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Shoya Kajita](https://dev.shoya-kajita.com/) - Amazing WebGL experiments
 ## Articles
 - [Who is the real first computer programmer](https://lunduke.substack.com/p/who-is-the-real-first-computer-programmer)
+- [The evolution of programming languages](https://www.linkedin.com/pulse/evolution-programming-languages-past-present-future-mohindroo-)
 ## Other
 - [Marinally Clever Robots](https://github.com/MarginallyClever) - Developing robots; what I'm interested in is their pen plotter open sourced software, it has a varaity of themes and image converter; it's fun to study their image manipulation techniques.
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode/)

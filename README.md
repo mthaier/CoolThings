@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea5676e3-83ee-4198-9ca6-7b4c579653be)# CoolThings
+# CoolThings
 <img src="https://raw.githubusercontent.com/itsMohammedThaier/CoolThings/main/src/banner.jpg">
 Cool programming/computer science/generative art books/videos/articles I've found, they're not necessarily the "best", just what I came across and decided to keep a track of them
 

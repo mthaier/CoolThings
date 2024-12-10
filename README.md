@@ -1,4 +1,4 @@
-# CoolThings
+![image](https://github.com/user-attachments/assets/ea5676e3-83ee-4198-9ca6-7b4c579653be)# CoolThings
 <img src="https://raw.githubusercontent.com/itsMohammedThaier/CoolThings/main/src/banner.jpg">
 Cool programming/computer science/generative art books/videos/articles I've found, they're not necessarily the "best", just what I came across and decided to keep a track of them
 
@@ -43,6 +43,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Physics simulator made by Terry Davis](https://www.youtube.com/watch?v=25hLohVZdME)
 - [Coding FPS game engine](https://www.youtube.com/watch?v=29H0N_yRUXo&list=WL&index=1&t=555s)
 - [Coffe with Brian Kernighans](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
+- [Type Inference in GO](https://www.youtube.com/watch?v=2putv2jOqdg)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.

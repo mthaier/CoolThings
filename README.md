@@ -44,6 +44,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Coding FPS game engine](https://www.youtube.com/watch?v=29H0N_yRUXo&list=WL&index=1&t=555s)
 - [Coffe with Brian Kernighans](https://www.youtube.com/watch?v=GNyQxXw_oMQ)
 - [Type Inference in GO](https://www.youtube.com/watch?v=2putv2jOqdg)
+- [The AMAZING History of Computers, Programming, and Coding](https://www.youtube.com/watch?v=M4d3FXu9-3I)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.

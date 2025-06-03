@@ -46,6 +46,7 @@ Cool programming/computer science/generative art books/videos/articles I've foun
 - [Type Inference in GO](https://www.youtube.com/watch?v=2putv2jOqdg)
 - [The AMAZING History of Computers, Programming, and Coding](https://www.youtube.com/watch?v=M4d3FXu9-3I)
 - [History of Programming Languages.(Documentary 2024)](https://www.youtube.com/watch?v=wDAxXIrZW3M)
+- [The Computer That Runs The World](https://www.youtube.com/watch?v=DLg5tyxmXqQ)
 ## Blogs
 - [Sighack](https://sighack.com/) - Sighack's explorations with GenArt.
 - [The Coding Train](https://www.youtube.com/@TheCodingTrain) - I consider him as the godfather of creative coding content.
